@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/Nilanjan269"><img src="https://komarev.com/ghpvc/?username=Nilanjan269&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-red?style=flat&logo=gmail" alt="Email"/></a>
-  <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-Username-5865F2?style=flat&logo=discord" alt="Discord"/></a>
+  <a href="mailto:nilanjan269@example.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-red?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="https://discord.com/users/nilanjan269"><img src="https://img.shields.io/badge/Discord-Username-5865F2?style=flat&logo=discord" alt="Discord"/></a>
 </p>
 
 <div align="center">
