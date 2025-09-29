@@ -73,7 +73,7 @@
 
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nilanjan269/count.svg" alt="Visit Counter"/>
+  <img src="[https://profile-counter.glitch.me/Nilanjan269/count.svg](https://komarev.com/ghpvc/?username=Nilanjan269&label=Profile%20Views&color=blueviolet&style=flat)" alt="Visit Counter"/>
   
   ### ⭐️ From [Nilanjan269](https://github.com/Nilanjan269)
 </div>
